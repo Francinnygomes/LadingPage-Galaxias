@@ -15,9 +15,9 @@ p {
 
 h1 {
     color: #800080;
-    font-size: 2.5rem;
-    margin-bottom: 24px;
-    text-shadow: 2px 1px 1px #00000073;
+    font-size: 2.6rem;
+    margin-bottom: 25px;
+    text-shadow: 0 0 25px #000000;
 }
 
 h2 {
@@ -54,7 +54,7 @@ span {
 }
 
 .banner {
-    background-image: url(../image/imagemfundo1.jpg);
+    background-image: url('/image/imagemfundo1.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -77,10 +77,10 @@ span {
     padding: 16px 32px;
     letter-spacing: 4px;
     border-radius: 10px;
-    margin-top: 20px;
+    margin-top: 30px;
     color: #ffffff;
     text-shadow: 1px 1px 1px #00000052;
-    background: linear-gradient(#e001fd ,#800080, #29297e);
+    background: linear-gradient(#e001fd ,#800080, #29297ed7);
     cursor: pointer;
     transition: transform 0.2s, box-shadow 0.2s;
 }
@@ -88,6 +88,7 @@ span {
 button:hover {
     transform: scale(1.05);
     box-shadow: 0 4px 8px #0000019f;
+    box-shadow: 0 0 25px #e001fd;
 }
 
 .container-conteudo {
@@ -95,7 +96,27 @@ button:hover {
     width: 90%;
     max-width: 700px;
     color: #ffffff;
-    
+}
+
+.container-conteudo .galaxia-eliptica,
+.container-conteudo .galaxia-espiral,
+.container-conteudo .galaxia-irregular {
+    cursor: pointer;
+    transition: 0.3s ease;
+    background: #000000;
+    border-bottom: 3px solid #800080;
+    border: 1px solid #800080;
+    border-radius: 10px;
+    margin-top: 60px;
+    padding: 20px;
+    box-shadow: 0 0 24px #29297e75;
+}
+
+.container-conteudo .galaxia-eliptica:hover,
+.container-conteudo .galaxia-espiral:hover,
+.container-conteudo .galaxia-irregular:hover {
+    transform: scale(1.05);
+    border-bottom: 3px solid #e001fd;
 }
 
 .container-conteudo div p {
@@ -105,12 +126,13 @@ button:hover {
 .container-conteudo .imagem-da-galaxia {
     color: #ffffff;
     margin-bottom: 15px;
+    
 }
 
 .secao-galaxia {
     border: 1px solid #800080;
     border-radius: 10px;
-    margin-top: 20px;
+    margin-top: 60px;
     padding: 20px;
     box-shadow: 2px 2px #29297eab;
 }
@@ -118,7 +140,7 @@ button:hover {
 #galaxia-no-universo-observavel {
     height: 560px;
     background-size: cover;
-    background-image: url(../image/imagemfundo2.jpg);
+    background-image: url('/image/imagemfundo2.jpg');
     background-attachment: fixed;
     border-top: 1px solid #800080;
     border-bottom: 1px solid #800080;
