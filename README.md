@@ -26,13 +26,10 @@ As informações apresentadas foram retiradas de fontes confiáveis, incluindo:
 - **HTML5**: Estruturação semântica do conteúdo.
 - **CSS3**: Estilos e layout do site, garantindo uma experiência visual agradável.
 
-## 📸 Prévia
-![Preview do Projeto](url-da-imagem-preview) _(substitua "url-da-imagem-preview" pelo link da imagem que representa o projeto)_
-
 ## 💻 Autor
 Desenvolvido por **Francinny Gomes** como parte de um projeto de aprendizado em desenvolvimento web.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FrancinnyGomes-blue)]([https://www.linkedin.com/in/francinnygomes](https://br.linkedin.com/in/francinny-gomes-71398a147)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FrancinnyGomes-blue)](https://br.linkedin.com/in/francinny-gomes-71398a147)
 
 ---
 
