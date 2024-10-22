@@ -32,7 +32,7 @@ As informações apresentadas foram retiradas de fontes confiáveis, incluindo:
 ## 💻 Autor
 Desenvolvido por **Francinny Gomes** como parte de um projeto de aprendizado em desenvolvimento web.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FrancinnyGomes-blue)](https://www.linkedin.com/in/francinnygomes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FrancinnyGomes-blue)]([https://www.linkedin.com/in/francinnygomes](https://br.linkedin.com/in/francinny-gomes-71398a147)
 
 ---
 
