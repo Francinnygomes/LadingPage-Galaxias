@@ -54,7 +54,7 @@ span {
 }
 
 .banner {
-    background-image: url('/image/imagemfundo1.jpg');
+    background-image: url('./image/imagemfundo1.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -118,7 +118,7 @@ button:hover {
 #galaxia-no-universo-observavel {
     height: 560px;
     background-size: cover;
-    background-image: url('/image/imagemfundo2.jpg');
+    background-image: url('./image/imagemfundo2.jpg');
     background-attachment: fixed;
     border-top: 1px solid #800080;
     border-bottom: 1px solid #800080;
